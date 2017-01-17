@@ -8,7 +8,7 @@ A couple of good resources for brushing the basics in machine learning
 - [All of statistics (Wasserman) and Pattern Classification (Duda Hart)](https://drive.google.com/open?id=0BwKTovFlBEEJX1NpLUFNQmd2bVk). For start, one can start with the first 3 chapters of Duda hart and some of the basic statistics chapter of Wasserman.
 
 ## 1st meetup
-[AMEO dataset](http://dl.acm.org/citation.cfm?id=2892037)
+- [AMEO dataset](http://dl.acm.org/citation.cfm?id=2892037)
 
 ## 3rd ML-Meetup - Dr. Mayank Vatsa
 Some books suggested during the meetup:
@@ -22,14 +22,11 @@ Names of Datasets
 - [Faces in the Wild](http://vis-www.cs.umass.edu/lfw/)
 
 Papers around Face Recognition
-[Google (FaceNet)](http://arxiv.org/pdf/1503.03832v3.pdf)
-[Facebook (Deep Face)](https://www.cs.toronto.edu/~ranzato/publications/taigman_cvpr14.pdf)
+- [Google (FaceNet)](http://arxiv.org/pdf/1503.03832v3.pdf)
+- [Facebook (Deep Face)](https://www.cs.toronto.edu/~ranzato/publications/taigman_cvpr14.pdf)
 
 ## 4th Meetup - Kaggle Dataset
-[Titanic dataset](https://www.kaggle.com/c/titanic)
+- [Titanic dataset](https://www.kaggle.com/c/titanic)
 
 ## 5th and 6th Meetups
-[cs231 course](http://cs231n.stanford.edu/) 
-
-## 7th ML-Meetup - Mr. Janu Verma
-[Janu Verma](http://researcher.watson.ibm.com/researcher/view.php?person=us-jverma) is a machine learning and data visualization researcher at IBM T.J. Watson Research Center in New York. He has held research positions at Cornell University, Kansas State University, Tata Institute of Fundamental Research, Jawahar Lal Nehru Center for Advanced Scientific Research, and Indian Statistical Institute. The central concept of this talk was word2vec - distributed vector representations, which are computed using a convolutional neural network. 
+- [cs231 course](http://cs231n.stanford.edu/) 
